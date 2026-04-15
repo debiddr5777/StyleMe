@@ -1,0 +1,16 @@
+node_modules/
+dist/
+build/
+.env
+.env.local
+*.log
+.DS_Store
+uploads/
+*.db
+server/prisma/*.db
+prisma/dev.db
+client/dist/
+client/node_modules/
+server/node_modules/
+ml-service/__pycache__/
+*.pyc
