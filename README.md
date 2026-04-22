@@ -113,4 +113,10 @@ npx prisma migrate dev --name init
 
 ## License
 
-MIT
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+
+
+<div align="center">
+  <sub>Built with 🍄‍🟫 by the DPM</sub>
+</div>
