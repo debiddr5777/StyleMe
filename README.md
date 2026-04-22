@@ -22,7 +22,7 @@
 
 
 
-# StyleAI - Outfit Suggestion System
+# StyleMe - Outfit Suggestion System
 
 A comprehensive, production-ready outfit suggestion system with AI-powered recommendations.
 
@@ -118,5 +118,5 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 
 <div align="center">
-  <sub>Built with 🍄‍🟫 by the DPM</sub>
+  <h3>Built with 🍄‍🟫 by DPM</h3>
 </div>
