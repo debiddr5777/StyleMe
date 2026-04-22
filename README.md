@@ -1,15 +1,15 @@
-```
-                        
-                        
- .-. .    .   .    .    
-(   _|_   |   |\  /|    
- `-. | .  |.-.| \/ |.-. 
-(   )| |  (.-'|    (.-' 
- `-' `-`--``--'    '`--'
-          ;             
-       `-'              
-```
 <div align="center">
+
+```                   
+      :::::::: ::::::::::: :::   ::: :::        ::::::::::   :::   :::   :::::::::: 
+    :+:    :+:    :+:     :+:   :+: :+:        :+:         :+:+: :+:+:  :+:         
+   +:+           +:+      +:+ +:+  +:+        +:+        +:+ +:+:+ +:+ +:+          
+  +#++:++#++    +#+       +#++:   +#+        +#++:++#   +#+  +:+  +#+ +#++:++#      
+        +#+    +#+        +#+    +#+        +#+        +#+       +#+ +#+            
+#+#    #+#    #+#        #+#    #+#        #+#        #+#       #+# #+#             
+      ########     ###        ###    ########## ########## ###       ### ##########             
+```
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/Node.js-20%2B-brightgreen?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-18%2B-blue?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
