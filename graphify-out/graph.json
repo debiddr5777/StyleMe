@@ -1,0 +1,1418 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "tailwind.config.js",
+      "file_type": "code",
+      "source_file": "client/tailwind.config.js",
+      "source_location": "L1",
+      "id": "client_tailwind_config_js",
+      "community": 20
+    },
+    {
+      "label": "postcss.config.js",
+      "file_type": "code",
+      "source_file": "client/postcss.config.js",
+      "source_location": "L1",
+      "id": "client_postcss_config_js",
+      "community": 21
+    },
+    {
+      "label": "vite.config.ts",
+      "file_type": "code",
+      "source_file": "client/vite.config.ts",
+      "source_location": "L1",
+      "id": "client_vite_config_ts",
+      "community": 22
+    },
+    {
+      "label": "main.tsx",
+      "file_type": "code",
+      "source_file": "client/src/main.tsx",
+      "source_location": "L1",
+      "id": "client_src_main_tsx",
+      "community": 23
+    },
+    {
+      "label": "vite-env.d.ts",
+      "file_type": "code",
+      "source_file": "client/src/vite-env.d.ts",
+      "source_location": "L1",
+      "id": "client_src_vite_env_d_ts",
+      "community": 24
+    },
+    {
+      "label": "App.tsx",
+      "file_type": "code",
+      "source_file": "client/src/App.tsx",
+      "source_location": "L1",
+      "id": "client_src_app_tsx",
+      "community": 1
+    },
+    {
+      "label": "LoadingScreen()",
+      "file_type": "code",
+      "source_file": "client/src/App.tsx",
+      "source_location": "L18",
+      "id": "app_loadingscreen",
+      "community": 1
+    },
+    {
+      "label": "PrivateRoute()",
+      "file_type": "code",
+      "source_file": "client/src/App.tsx",
+      "source_location": "L31",
+      "id": "app_privateroute",
+      "community": 1
+    },
+    {
+      "label": "PublicRoute()",
+      "file_type": "code",
+      "source_file": "client/src/App.tsx",
+      "source_location": "L48",
+      "id": "app_publicroute",
+      "community": 1
+    },
+    {
+      "label": "App()",
+      "file_type": "code",
+      "source_file": "client/src/App.tsx",
+      "source_location": "L58",
+      "id": "app_app",
+      "community": 1
+    },
+    {
+      "label": "api.ts",
+      "file_type": "code",
+      "source_file": "client/src/utils/api.ts",
+      "source_location": "L1",
+      "id": "client_src_utils_api_ts",
+      "community": 25
+    },
+    {
+      "label": "Landing.tsx",
+      "file_type": "code",
+      "source_file": "client/src/pages/Landing.tsx",
+      "source_location": "L1",
+      "id": "client_src_pages_landing_tsx",
+      "community": 26
+    },
+    {
+      "label": "EditItem.tsx",
+      "file_type": "code",
+      "source_file": "client/src/pages/EditItem.tsx",
+      "source_location": "L1",
+      "id": "client_src_pages_edititem_tsx",
+      "community": 2
+    },
+    {
+      "label": "loadItem()",
+      "file_type": "code",
+      "source_file": "client/src/pages/EditItem.tsx",
+      "source_location": "L36",
+      "id": "edititem_loaditem",
+      "community": 2
+    },
+    {
+      "label": "handleSubmit()",
+      "file_type": "code",
+      "source_file": "client/src/pages/EditItem.tsx",
+      "source_location": "L58",
+      "id": "edititem_handlesubmit",
+      "community": 2
+    },
+    {
+      "label": "handleDelete()",
+      "file_type": "code",
+      "source_file": "client/src/pages/EditItem.tsx",
+      "source_location": "L73",
+      "id": "edititem_handledelete",
+      "community": 2
+    },
+    {
+      "label": "toggleFavorite()",
+      "file_type": "code",
+      "source_file": "client/src/pages/EditItem.tsx",
+      "source_location": "L85",
+      "id": "edititem_togglefavorite",
+      "community": 2
+    },
+    {
+      "label": "Register.tsx",
+      "file_type": "code",
+      "source_file": "client/src/pages/Register.tsx",
+      "source_location": "L1",
+      "id": "client_src_pages_register_tsx",
+      "community": 11
+    },
+    {
+      "label": "Register()",
+      "file_type": "code",
+      "source_file": "client/src/pages/Register.tsx",
+      "source_location": "L8",
+      "id": "register_register",
+      "community": 11
+    },
+    {
+      "label": "Wardrobe.tsx",
+      "file_type": "code",
+      "source_file": "client/src/pages/Wardrobe.tsx",
+      "source_location": "L1",
+      "id": "client_src_pages_wardrobe_tsx",
+      "community": 6
+    },
+    {
+      "label": "loadItems()",
+      "file_type": "code",
+      "source_file": "client/src/pages/Wardrobe.tsx",
+      "source_location": "L34",
+      "id": "wardrobe_loaditems",
+      "community": 6
+    },
+    {
+      "label": "handleDelete()",
+      "file_type": "code",
+      "source_file": "client/src/pages/Wardrobe.tsx",
+      "source_location": "L53",
+      "id": "wardrobe_handledelete",
+      "community": 6
+    },
+    {
+      "label": "toggleFavorite()",
+      "file_type": "code",
+      "source_file": "client/src/pages/Wardrobe.tsx",
+      "source_location": "L67",
+      "id": "wardrobe_togglefavorite",
+      "community": 6
+    },
+    {
+      "label": "Shopping.tsx",
+      "file_type": "code",
+      "source_file": "client/src/pages/Shopping.tsx",
+      "source_location": "L1",
+      "id": "client_src_pages_shopping_tsx",
+      "community": 3
+    },
+    {
+      "label": "searchProducts()",
+      "file_type": "code",
+      "source_file": "client/src/pages/Shopping.tsx",
+      "source_location": "L15",
+      "id": "shopping_searchproducts",
+      "community": 3
+    },
+    {
+      "label": "loadWishlist()",
+      "file_type": "code",
+      "source_file": "client/src/pages/Shopping.tsx",
+      "source_location": "L29",
+      "id": "shopping_loadwishlist",
+      "community": 3
+    },
+    {
+      "label": "addToWishlist()",
+      "file_type": "code",
+      "source_file": "client/src/pages/Shopping.tsx",
+      "source_location": "L38",
+      "id": "shopping_addtowishlist",
+      "community": 3
+    },
+    {
+      "label": "removeFromWishlist()",
+      "file_type": "code",
+      "source_file": "client/src/pages/Shopping.tsx",
+      "source_location": "L51",
+      "id": "shopping_removefromwishlist",
+      "community": 3
+    },
+    {
+      "label": "Profile.tsx",
+      "file_type": "code",
+      "source_file": "client/src/pages/Profile.tsx",
+      "source_location": "L1",
+      "id": "client_src_pages_profile_tsx",
+      "community": 4
+    },
+    {
+      "label": "handleSave()",
+      "file_type": "code",
+      "source_file": "client/src/pages/Profile.tsx",
+      "source_location": "L34",
+      "id": "profile_handlesave",
+      "community": 4
+    },
+    {
+      "label": "handleLogout()",
+      "file_type": "code",
+      "source_file": "client/src/pages/Profile.tsx",
+      "source_location": "L51",
+      "id": "profile_handlelogout",
+      "community": 4
+    },
+    {
+      "label": "toggleStyle()",
+      "file_type": "code",
+      "source_file": "client/src/pages/Profile.tsx",
+      "source_location": "L56",
+      "id": "profile_togglestyle",
+      "community": 4
+    },
+    {
+      "label": "toggleColor()",
+      "file_type": "code",
+      "source_file": "client/src/pages/Profile.tsx",
+      "source_location": "L65",
+      "id": "profile_togglecolor",
+      "community": 4
+    },
+    {
+      "label": "Onboarding.tsx",
+      "file_type": "code",
+      "source_file": "client/src/pages/Onboarding.tsx",
+      "source_location": "L1",
+      "id": "client_src_pages_onboarding_tsx",
+      "community": 8
+    },
+    {
+      "label": "toggleStyle()",
+      "file_type": "code",
+      "source_file": "client/src/pages/Onboarding.tsx",
+      "source_location": "L19",
+      "id": "onboarding_togglestyle",
+      "community": 8
+    },
+    {
+      "label": "handleComplete()",
+      "file_type": "code",
+      "source_file": "client/src/pages/Onboarding.tsx",
+      "source_location": "L23",
+      "id": "onboarding_handlecomplete",
+      "community": 8
+    },
+    {
+      "label": "Dashboard.tsx",
+      "file_type": "code",
+      "source_file": "client/src/pages/Dashboard.tsx",
+      "source_location": "L1",
+      "id": "client_src_pages_dashboard_tsx",
+      "community": 12
+    },
+    {
+      "label": "loadData()",
+      "file_type": "code",
+      "source_file": "client/src/pages/Dashboard.tsx",
+      "source_location": "L14",
+      "id": "dashboard_loaddata",
+      "community": 12
+    },
+    {
+      "label": "AddItem.tsx",
+      "file_type": "code",
+      "source_file": "client/src/pages/AddItem.tsx",
+      "source_location": "L1",
+      "id": "client_src_pages_additem_tsx",
+      "community": 9
+    },
+    {
+      "label": "handleSubmit()",
+      "file_type": "code",
+      "source_file": "client/src/pages/AddItem.tsx",
+      "source_location": "L30",
+      "id": "additem_handlesubmit",
+      "community": 9
+    },
+    {
+      "label": "quickAdd()",
+      "file_type": "code",
+      "source_file": "client/src/pages/AddItem.tsx",
+      "source_location": "L52",
+      "id": "additem_quickadd",
+      "community": 9
+    },
+    {
+      "label": "Login.tsx",
+      "file_type": "code",
+      "source_file": "client/src/pages/Login.tsx",
+      "source_location": "L1",
+      "id": "client_src_pages_login_tsx",
+      "community": 13
+    },
+    {
+      "label": "Login()",
+      "file_type": "code",
+      "source_file": "client/src/pages/Login.tsx",
+      "source_location": "L8",
+      "id": "login_login",
+      "community": 13
+    },
+    {
+      "label": "Recommendations.tsx",
+      "file_type": "code",
+      "source_file": "client/src/pages/Recommendations.tsx",
+      "source_location": "L1",
+      "id": "client_src_pages_recommendations_tsx",
+      "community": 7
+    },
+    {
+      "label": "loadUserItems()",
+      "file_type": "code",
+      "source_file": "client/src/pages/Recommendations.tsx",
+      "source_location": "L22",
+      "id": "recommendations_loaduseritems",
+      "community": 7
+    },
+    {
+      "label": "generateOutfits()",
+      "file_type": "code",
+      "source_file": "client/src/pages/Recommendations.tsx",
+      "source_location": "L31",
+      "id": "recommendations_generateoutfits",
+      "community": 7
+    },
+    {
+      "label": "saveOutfit()",
+      "file_type": "code",
+      "source_file": "client/src/pages/Recommendations.tsx",
+      "source_location": "L43",
+      "id": "recommendations_saveoutfit",
+      "community": 7
+    },
+    {
+      "label": "Outfits.tsx",
+      "file_type": "code",
+      "source_file": "client/src/pages/Outfits.tsx",
+      "source_location": "L1",
+      "id": "client_src_pages_outfits_tsx",
+      "community": 5
+    },
+    {
+      "label": "loadOutfits()",
+      "file_type": "code",
+      "source_file": "client/src/pages/Outfits.tsx",
+      "source_location": "L20",
+      "id": "outfits_loadoutfits",
+      "community": 5
+    },
+    {
+      "label": "deleteOutfit()",
+      "file_type": "code",
+      "source_file": "client/src/pages/Outfits.tsx",
+      "source_location": "L32",
+      "id": "outfits_deleteoutfit",
+      "community": 5
+    },
+    {
+      "label": "rateOutfit()",
+      "file_type": "code",
+      "source_file": "client/src/pages/Outfits.tsx",
+      "source_location": "L43",
+      "id": "outfits_rateoutfit",
+      "community": 5
+    },
+    {
+      "label": "toggleFavorite()",
+      "file_type": "code",
+      "source_file": "client/src/pages/Outfits.tsx",
+      "source_location": "L52",
+      "id": "outfits_togglefavorite",
+      "community": 5
+    },
+    {
+      "label": "Layout.tsx",
+      "file_type": "code",
+      "source_file": "client/src/components/Layout.tsx",
+      "source_location": "L1",
+      "id": "client_src_components_layout_tsx",
+      "community": 14
+    },
+    {
+      "label": "Layout()",
+      "file_type": "code",
+      "source_file": "client/src/components/Layout.tsx",
+      "source_location": "L7",
+      "id": "layout_layout",
+      "community": 14
+    },
+    {
+      "label": "Toast.tsx",
+      "file_type": "code",
+      "source_file": "client/src/components/Toast.tsx",
+      "source_location": "L1",
+      "id": "client_src_components_toast_tsx",
+      "community": 27
+    },
+    {
+      "label": "Sidebar.tsx",
+      "file_type": "code",
+      "source_file": "client/src/components/Sidebar.tsx",
+      "source_location": "L1",
+      "id": "client_src_components_sidebar_tsx",
+      "community": 15
+    },
+    {
+      "label": "Sidebar()",
+      "file_type": "code",
+      "source_file": "client/src/components/Sidebar.tsx",
+      "source_location": "L14",
+      "id": "sidebar_sidebar",
+      "community": 15
+    },
+    {
+      "label": "Header.tsx",
+      "file_type": "code",
+      "source_file": "client/src/components/Header.tsx",
+      "source_location": "L1",
+      "id": "client_src_components_header_tsx",
+      "community": 16
+    },
+    {
+      "label": "handleLogout()",
+      "file_type": "code",
+      "source_file": "client/src/components/Header.tsx",
+      "source_location": "L12",
+      "id": "header_handlelogout",
+      "community": 16
+    },
+    {
+      "label": "index.ts",
+      "file_type": "code",
+      "source_file": "client/src/store/index.ts",
+      "source_location": "L1",
+      "id": "client_src_store_index_ts",
+      "community": 28
+    },
+    {
+      "label": "index.js",
+      "file_type": "code",
+      "source_file": "server/src/index.js",
+      "source_location": "L1",
+      "id": "server_src_index_js",
+      "community": 29
+    },
+    {
+      "label": "auth.js",
+      "file_type": "code",
+      "source_file": "server/src/routes/auth.js",
+      "source_location": "L1",
+      "id": "server_src_routes_auth_js",
+      "community": 30
+    },
+    {
+      "label": "outfits.js",
+      "file_type": "code",
+      "source_file": "server/src/routes/outfits.js",
+      "source_location": "L1",
+      "id": "server_src_routes_outfits_js",
+      "community": 31
+    },
+    {
+      "label": "users.js",
+      "file_type": "code",
+      "source_file": "server/src/routes/users.js",
+      "source_location": "L1",
+      "id": "server_src_routes_users_js",
+      "community": 32
+    },
+    {
+      "label": "recommendations.js",
+      "file_type": "code",
+      "source_file": "server/src/routes/recommendations.js",
+      "source_location": "L1",
+      "id": "server_src_routes_recommendations_js",
+      "community": 33
+    },
+    {
+      "label": "wardrobe.js",
+      "file_type": "code",
+      "source_file": "server/src/routes/wardrobe.js",
+      "source_location": "L1",
+      "id": "server_src_routes_wardrobe_js",
+      "community": 17
+    },
+    {
+      "label": "scrapeProduct()",
+      "file_type": "code",
+      "source_file": "server/src/routes/wardrobe.js",
+      "source_location": "L27",
+      "id": "wardrobe_scrapeproduct",
+      "community": 17
+    },
+    {
+      "label": "shopping.js",
+      "file_type": "code",
+      "source_file": "server/src/routes/shopping.js",
+      "source_location": "L1",
+      "id": "server_src_routes_shopping_js",
+      "community": 34
+    },
+    {
+      "label": "ml.js",
+      "file_type": "code",
+      "source_file": "server/src/routes/ml.js",
+      "source_location": "L1",
+      "id": "server_src_routes_ml_js",
+      "community": 35
+    },
+    {
+      "label": "auth.js",
+      "file_type": "code",
+      "source_file": "server/src/middleware/auth.js",
+      "source_location": "L1",
+      "id": "server_src_middleware_auth_js",
+      "community": 10
+    },
+    {
+      "label": "authMiddleware()",
+      "file_type": "code",
+      "source_file": "server/src/middleware/auth.js",
+      "source_location": "L4",
+      "id": "auth_authmiddleware",
+      "community": 10
+    },
+    {
+      "label": "optionalAuth()",
+      "file_type": "code",
+      "source_file": "server/src/middleware/auth.js",
+      "source_location": "L26",
+      "id": "auth_optionalauth",
+      "community": 10
+    },
+    {
+      "label": "errorHandler.js",
+      "file_type": "code",
+      "source_file": "server/src/middleware/errorHandler.js",
+      "source_location": "L1",
+      "id": "server_src_middleware_errorhandler_js",
+      "community": 18
+    },
+    {
+      "label": "errorHandler()",
+      "file_type": "code",
+      "source_file": "server/src/middleware/errorHandler.js",
+      "source_location": "L1",
+      "id": "errorhandler_errorhandler",
+      "community": 18
+    },
+    {
+      "label": "index.js",
+      "file_type": "code",
+      "source_file": "server/src/config/index.js",
+      "source_location": "L1",
+      "id": "server_src_config_index_js",
+      "community": 36
+    },
+    {
+      "label": "app.py",
+      "file_type": "code",
+      "source_file": "ml-service/app.py",
+      "source_location": "L1",
+      "id": "ml_service_app_py",
+      "community": 0
+    },
+    {
+      "label": "load_image_from_url()",
+      "file_type": "code",
+      "source_file": "ml-service/app.py",
+      "source_location": "L18",
+      "id": "app_load_image_from_url",
+      "community": 0
+    },
+    {
+      "label": "classify_clothing()",
+      "file_type": "code",
+      "source_file": "ml-service/app.py",
+      "source_location": "L27",
+      "id": "app_classify_clothing",
+      "community": 0
+    },
+    {
+      "label": "get_color_name()",
+      "file_type": "code",
+      "source_file": "ml-service/app.py",
+      "source_location": "L67",
+      "id": "app_get_color_name",
+      "community": 0
+    },
+    {
+      "label": "calculate_compatibility()",
+      "file_type": "code",
+      "source_file": "ml-service/app.py",
+      "source_location": "L78",
+      "id": "app_calculate_compatibility",
+      "community": 0
+    },
+    {
+      "label": "health()",
+      "file_type": "code",
+      "source_file": "ml-service/app.py",
+      "source_location": "L108",
+      "id": "app_health",
+      "community": 0
+    },
+    {
+      "label": "classify()",
+      "file_type": "code",
+      "source_file": "ml-service/app.py",
+      "source_location": "L112",
+      "id": "app_classify",
+      "community": 0
+    },
+    {
+      "label": "extract_colors_route()",
+      "file_type": "code",
+      "source_file": "ml-service/app.py",
+      "source_location": "L132",
+      "id": "app_extract_colors_route",
+      "community": 0
+    },
+    {
+      "label": "compatibility()",
+      "file_type": "code",
+      "source_file": "ml-service/app.py",
+      "source_location": "L151",
+      "id": "app_compatibility",
+      "community": 0
+    },
+    {
+      "label": "Get human-readable color name",
+      "file_type": "rationale",
+      "source_file": "ml-service/app.py",
+      "source_location": "L68",
+      "id": "app_rationale_68",
+      "community": 0
+    },
+    {
+      "label": "Calculate outfit compatibility score",
+      "file_type": "rationale",
+      "source_file": "ml-service/app.py",
+      "source_location": "L79",
+      "id": "app_rationale_79",
+      "community": 0
+    },
+    {
+      "label": "StyleAI Project Overview",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "readme_styleai",
+      "community": 19
+    },
+    {
+      "label": "StyleAI Specification",
+      "file_type": "document",
+      "source_file": "SPEC.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "spec_styleai",
+      "community": 19
+    },
+    {
+      "label": "ML Python Requirements",
+      "file_type": "document",
+      "source_file": "ml-service/requirements.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "reqs_ml",
+      "community": 37
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/App.tsx",
+      "source_location": "L18",
+      "weight": 1.0,
+      "_src": "client_src_app_tsx",
+      "_tgt": "app_loadingscreen",
+      "source": "client_src_app_tsx",
+      "target": "app_loadingscreen",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/App.tsx",
+      "source_location": "L31",
+      "weight": 1.0,
+      "_src": "client_src_app_tsx",
+      "_tgt": "app_privateroute",
+      "source": "client_src_app_tsx",
+      "target": "app_privateroute",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/App.tsx",
+      "source_location": "L48",
+      "weight": 1.0,
+      "_src": "client_src_app_tsx",
+      "_tgt": "app_publicroute",
+      "source": "client_src_app_tsx",
+      "target": "app_publicroute",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/App.tsx",
+      "source_location": "L58",
+      "weight": 1.0,
+      "_src": "client_src_app_tsx",
+      "_tgt": "app_app",
+      "source": "client_src_app_tsx",
+      "target": "app_app",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/EditItem.tsx",
+      "source_location": "L36",
+      "weight": 1.0,
+      "_src": "client_src_pages_edititem_tsx",
+      "_tgt": "edititem_loaditem",
+      "source": "client_src_pages_edititem_tsx",
+      "target": "edititem_loaditem",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/EditItem.tsx",
+      "source_location": "L58",
+      "weight": 1.0,
+      "_src": "client_src_pages_edititem_tsx",
+      "_tgt": "edititem_handlesubmit",
+      "source": "client_src_pages_edititem_tsx",
+      "target": "edititem_handlesubmit",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/EditItem.tsx",
+      "source_location": "L73",
+      "weight": 1.0,
+      "_src": "client_src_pages_edititem_tsx",
+      "_tgt": "edititem_handledelete",
+      "source": "client_src_pages_edititem_tsx",
+      "target": "edititem_handledelete",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/EditItem.tsx",
+      "source_location": "L85",
+      "weight": 1.0,
+      "_src": "client_src_pages_edititem_tsx",
+      "_tgt": "edititem_togglefavorite",
+      "source": "client_src_pages_edititem_tsx",
+      "target": "edititem_togglefavorite",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/Register.tsx",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_src": "client_src_pages_register_tsx",
+      "_tgt": "register_register",
+      "source": "client_src_pages_register_tsx",
+      "target": "register_register",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/Wardrobe.tsx",
+      "source_location": "L34",
+      "weight": 1.0,
+      "_src": "client_src_pages_wardrobe_tsx",
+      "_tgt": "wardrobe_loaditems",
+      "source": "client_src_pages_wardrobe_tsx",
+      "target": "wardrobe_loaditems",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/Wardrobe.tsx",
+      "source_location": "L53",
+      "weight": 1.0,
+      "_src": "client_src_pages_wardrobe_tsx",
+      "_tgt": "wardrobe_handledelete",
+      "source": "client_src_pages_wardrobe_tsx",
+      "target": "wardrobe_handledelete",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/Wardrobe.tsx",
+      "source_location": "L67",
+      "weight": 1.0,
+      "_src": "client_src_pages_wardrobe_tsx",
+      "_tgt": "wardrobe_togglefavorite",
+      "source": "client_src_pages_wardrobe_tsx",
+      "target": "wardrobe_togglefavorite",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/Wardrobe.tsx",
+      "source_location": "L59",
+      "weight": 1.0,
+      "_src": "wardrobe_handledelete",
+      "_tgt": "wardrobe_loaditems",
+      "source": "wardrobe_loaditems",
+      "target": "wardrobe_handledelete",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/Shopping.tsx",
+      "source_location": "L15",
+      "weight": 1.0,
+      "_src": "client_src_pages_shopping_tsx",
+      "_tgt": "shopping_searchproducts",
+      "source": "client_src_pages_shopping_tsx",
+      "target": "shopping_searchproducts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/Shopping.tsx",
+      "source_location": "L29",
+      "weight": 1.0,
+      "_src": "client_src_pages_shopping_tsx",
+      "_tgt": "shopping_loadwishlist",
+      "source": "client_src_pages_shopping_tsx",
+      "target": "shopping_loadwishlist",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/Shopping.tsx",
+      "source_location": "L38",
+      "weight": 1.0,
+      "_src": "client_src_pages_shopping_tsx",
+      "_tgt": "shopping_addtowishlist",
+      "source": "client_src_pages_shopping_tsx",
+      "target": "shopping_addtowishlist",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/Shopping.tsx",
+      "source_location": "L51",
+      "weight": 1.0,
+      "_src": "client_src_pages_shopping_tsx",
+      "_tgt": "shopping_removefromwishlist",
+      "source": "client_src_pages_shopping_tsx",
+      "target": "shopping_removefromwishlist",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/Shopping.tsx",
+      "source_location": "L45",
+      "weight": 1.0,
+      "_src": "shopping_addtowishlist",
+      "_tgt": "shopping_loadwishlist",
+      "source": "shopping_loadwishlist",
+      "target": "shopping_addtowishlist",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/Profile.tsx",
+      "source_location": "L34",
+      "weight": 1.0,
+      "_src": "client_src_pages_profile_tsx",
+      "_tgt": "profile_handlesave",
+      "source": "client_src_pages_profile_tsx",
+      "target": "profile_handlesave",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/Profile.tsx",
+      "source_location": "L51",
+      "weight": 1.0,
+      "_src": "client_src_pages_profile_tsx",
+      "_tgt": "profile_handlelogout",
+      "source": "client_src_pages_profile_tsx",
+      "target": "profile_handlelogout",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/Profile.tsx",
+      "source_location": "L56",
+      "weight": 1.0,
+      "_src": "client_src_pages_profile_tsx",
+      "_tgt": "profile_togglestyle",
+      "source": "client_src_pages_profile_tsx",
+      "target": "profile_togglestyle",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/Profile.tsx",
+      "source_location": "L65",
+      "weight": 1.0,
+      "_src": "client_src_pages_profile_tsx",
+      "_tgt": "profile_togglecolor",
+      "source": "client_src_pages_profile_tsx",
+      "target": "profile_togglecolor",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/Onboarding.tsx",
+      "source_location": "L19",
+      "weight": 1.0,
+      "_src": "client_src_pages_onboarding_tsx",
+      "_tgt": "onboarding_togglestyle",
+      "source": "client_src_pages_onboarding_tsx",
+      "target": "onboarding_togglestyle",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/Onboarding.tsx",
+      "source_location": "L23",
+      "weight": 1.0,
+      "_src": "client_src_pages_onboarding_tsx",
+      "_tgt": "onboarding_handlecomplete",
+      "source": "client_src_pages_onboarding_tsx",
+      "target": "onboarding_handlecomplete",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/Dashboard.tsx",
+      "source_location": "L14",
+      "weight": 1.0,
+      "_src": "client_src_pages_dashboard_tsx",
+      "_tgt": "dashboard_loaddata",
+      "source": "client_src_pages_dashboard_tsx",
+      "target": "dashboard_loaddata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/AddItem.tsx",
+      "source_location": "L30",
+      "weight": 1.0,
+      "_src": "client_src_pages_additem_tsx",
+      "_tgt": "additem_handlesubmit",
+      "source": "client_src_pages_additem_tsx",
+      "target": "additem_handlesubmit",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/AddItem.tsx",
+      "source_location": "L52",
+      "weight": 1.0,
+      "_src": "client_src_pages_additem_tsx",
+      "_tgt": "additem_quickadd",
+      "source": "client_src_pages_additem_tsx",
+      "target": "additem_quickadd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/Login.tsx",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_src": "client_src_pages_login_tsx",
+      "_tgt": "login_login",
+      "source": "client_src_pages_login_tsx",
+      "target": "login_login",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/Recommendations.tsx",
+      "source_location": "L22",
+      "weight": 1.0,
+      "_src": "client_src_pages_recommendations_tsx",
+      "_tgt": "recommendations_loaduseritems",
+      "source": "client_src_pages_recommendations_tsx",
+      "target": "recommendations_loaduseritems",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/Recommendations.tsx",
+      "source_location": "L31",
+      "weight": 1.0,
+      "_src": "client_src_pages_recommendations_tsx",
+      "_tgt": "recommendations_generateoutfits",
+      "source": "client_src_pages_recommendations_tsx",
+      "target": "recommendations_generateoutfits",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/Recommendations.tsx",
+      "source_location": "L43",
+      "weight": 1.0,
+      "_src": "client_src_pages_recommendations_tsx",
+      "_tgt": "recommendations_saveoutfit",
+      "source": "client_src_pages_recommendations_tsx",
+      "target": "recommendations_saveoutfit",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/Outfits.tsx",
+      "source_location": "L20",
+      "weight": 1.0,
+      "_src": "client_src_pages_outfits_tsx",
+      "_tgt": "outfits_loadoutfits",
+      "source": "client_src_pages_outfits_tsx",
+      "target": "outfits_loadoutfits",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/Outfits.tsx",
+      "source_location": "L32",
+      "weight": 1.0,
+      "_src": "client_src_pages_outfits_tsx",
+      "_tgt": "outfits_deleteoutfit",
+      "source": "client_src_pages_outfits_tsx",
+      "target": "outfits_deleteoutfit",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/Outfits.tsx",
+      "source_location": "L43",
+      "weight": 1.0,
+      "_src": "client_src_pages_outfits_tsx",
+      "_tgt": "outfits_rateoutfit",
+      "source": "client_src_pages_outfits_tsx",
+      "target": "outfits_rateoutfit",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/Outfits.tsx",
+      "source_location": "L52",
+      "weight": 1.0,
+      "_src": "client_src_pages_outfits_tsx",
+      "_tgt": "outfits_togglefavorite",
+      "source": "client_src_pages_outfits_tsx",
+      "target": "outfits_togglefavorite",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/components/Layout.tsx",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "client_src_components_layout_tsx",
+      "_tgt": "layout_layout",
+      "source": "client_src_components_layout_tsx",
+      "target": "layout_layout",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/components/Sidebar.tsx",
+      "source_location": "L14",
+      "weight": 1.0,
+      "_src": "client_src_components_sidebar_tsx",
+      "_tgt": "sidebar_sidebar",
+      "source": "client_src_components_sidebar_tsx",
+      "target": "sidebar_sidebar",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/components/Header.tsx",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_src": "client_src_components_header_tsx",
+      "_tgt": "header_handlelogout",
+      "source": "client_src_components_header_tsx",
+      "target": "header_handlelogout",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/src/routes/wardrobe.js",
+      "source_location": "L27",
+      "weight": 1.0,
+      "_src": "server_src_routes_wardrobe_js",
+      "_tgt": "wardrobe_scrapeproduct",
+      "source": "server_src_routes_wardrobe_js",
+      "target": "wardrobe_scrapeproduct",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/src/middleware/auth.js",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_src": "server_src_middleware_auth_js",
+      "_tgt": "auth_authmiddleware",
+      "source": "server_src_middleware_auth_js",
+      "target": "auth_authmiddleware",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/src/middleware/auth.js",
+      "source_location": "L26",
+      "weight": 1.0,
+      "_src": "server_src_middleware_auth_js",
+      "_tgt": "auth_optionalauth",
+      "source": "server_src_middleware_auth_js",
+      "target": "auth_optionalauth",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/src/middleware/errorHandler.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "server_src_middleware_errorhandler_js",
+      "_tgt": "errorhandler_errorhandler",
+      "source": "server_src_middleware_errorhandler_js",
+      "target": "errorhandler_errorhandler",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "ml-service/app.py",
+      "source_location": "L18",
+      "weight": 1.0,
+      "_src": "ml_service_app_py",
+      "_tgt": "app_load_image_from_url",
+      "source": "ml_service_app_py",
+      "target": "app_load_image_from_url",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "ml-service/app.py",
+      "source_location": "L27",
+      "weight": 1.0,
+      "_src": "ml_service_app_py",
+      "_tgt": "app_classify_clothing",
+      "source": "ml_service_app_py",
+      "target": "app_classify_clothing",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "ml-service/app.py",
+      "source_location": "L67",
+      "weight": 1.0,
+      "_src": "ml_service_app_py",
+      "_tgt": "app_get_color_name",
+      "source": "ml_service_app_py",
+      "target": "app_get_color_name",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "ml-service/app.py",
+      "source_location": "L78",
+      "weight": 1.0,
+      "_src": "ml_service_app_py",
+      "_tgt": "app_calculate_compatibility",
+      "source": "ml_service_app_py",
+      "target": "app_calculate_compatibility",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "ml-service/app.py",
+      "source_location": "L108",
+      "weight": 1.0,
+      "_src": "ml_service_app_py",
+      "_tgt": "app_health",
+      "source": "ml_service_app_py",
+      "target": "app_health",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "ml-service/app.py",
+      "source_location": "L112",
+      "weight": 1.0,
+      "_src": "ml_service_app_py",
+      "_tgt": "app_classify",
+      "source": "ml_service_app_py",
+      "target": "app_classify",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "ml-service/app.py",
+      "source_location": "L132",
+      "weight": 1.0,
+      "_src": "ml_service_app_py",
+      "_tgt": "app_extract_colors_route",
+      "source": "ml_service_app_py",
+      "target": "app_extract_colors_route",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "ml-service/app.py",
+      "source_location": "L151",
+      "weight": 1.0,
+      "_src": "ml_service_app_py",
+      "_tgt": "app_compatibility",
+      "source": "ml_service_app_py",
+      "target": "app_compatibility",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "ml-service/app.py",
+      "source_location": "L119",
+      "weight": 1.0,
+      "_src": "app_classify",
+      "_tgt": "app_load_image_from_url",
+      "source": "app_load_image_from_url",
+      "target": "app_classify",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "ml-service/app.py",
+      "source_location": "L139",
+      "weight": 1.0,
+      "_src": "app_extract_colors_route",
+      "_tgt": "app_load_image_from_url",
+      "source": "app_load_image_from_url",
+      "target": "app_extract_colors_route",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "ml-service/app.py",
+      "source_location": "L123",
+      "weight": 1.0,
+      "_src": "app_classify",
+      "_tgt": "app_classify_clothing",
+      "source": "app_classify_clothing",
+      "target": "app_classify",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "ml-service/app.py",
+      "source_location": "L68",
+      "weight": 1.0,
+      "_src": "app_rationale_68",
+      "_tgt": "app_get_color_name",
+      "source": "app_get_color_name",
+      "target": "app_rationale_68",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "ml-service/app.py",
+      "source_location": "L161",
+      "weight": 1.0,
+      "_src": "app_compatibility",
+      "_tgt": "app_calculate_compatibility",
+      "source": "app_calculate_compatibility",
+      "target": "app_compatibility",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "ml-service/app.py",
+      "source_location": "L79",
+      "weight": 1.0,
+      "_src": "app_rationale_79",
+      "_tgt": "app_calculate_compatibility",
+      "source": "app_calculate_compatibility",
+      "target": "app_rationale_79",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SPEC.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_src": "spec_styleai",
+      "_tgt": "readme_styleai",
+      "source": "readme_styleai",
+      "target": "spec_styleai"
+    }
+  ],
+  "hyperedges": []
+}

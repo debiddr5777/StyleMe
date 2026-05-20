@@ -1,0 +1,72 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+model User {
+  id                String   @id @default(uuid())
+  email             String   @unique
+  passwordHash      String
+  name              String?
+  gender            String?
+  stylePreferences  String   @default("[]")
+  colorPreferences   String   @default("[]")
+  avatarUrl          String?
+  createdAt          DateTime @default(now())
+  updatedAt          DateTime @updatedAt
+}
+
+model WardrobeItem {
+  id             String   @id @default(uuid())
+  userId         String
+  category       String
+  subcategory    String?
+  imageUrl       String
+  thumbnailUrl   String?
+  productUrl     String?
+  brand          String?
+  name           String?
+  colors         String   @default("[]")
+  dominantColor  String?
+  season         String   @default("[]")
+  tags           String   @default("[]")
+  styleTags      String   @default("[]")
+  isFavorite     Boolean  @default(false)
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+}
+
+model Outfit {
+  id          String   @id @default(uuid())
+  userId      String
+  items       String
+  occasion    String?
+  styleType   String?
+  season      String?
+  rating      Int?
+  isFavorite  Boolean  @default(false)
+  createdAt   DateTime @default(now())
+}
+
+model Suggestion {
+  id                  String   @id @default(uuid())
+  userId              String
+  suggestedItems      String
+  compatibilityScore Float?
+  reason              String?
+  occasion            String?
+  styleType           String?
+  createdAt           DateTime @default(now())
+}
+
+model Wishlist {
+  id          String   @id @default(uuid())
+  userId      String
+  productUrl  String
+  productData String?
+  createdAt   DateTime @default(now())
+}

@@ -1,0 +1,7 @@
+flask==3.0.0
+numpy==1.26.3
+pillow==10.2.0
+opencv-python==4.9.0.80
+scikit-learn==1.4.0
+requests==2.31.0
+gunicorn==21.2.0
